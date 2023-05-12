@@ -1,0 +1,30 @@
+.divcont, .divbtn, .imgdiv, .image3 {
+    text-align: center;
+}
+
+.rstbtn {
+    width: 90px;
+    height: 25px;
+    font-size: medium;
+    border: 3px solid black;
+}
+
+.imgdiv {
+    padding: 30px;
+    margin: 20px;
+}
+
+.image1, .image2 {
+    margin: 10px;
+    width: 100px;
+}
+
+.image3 {
+    margin: 10px;
+    width: 100px;
+}
+
+.i3 {
+    margin: 10px;
+    width: 100px;
+}
